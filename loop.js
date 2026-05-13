@@ -28,12 +28,13 @@ for (let k = 1; k <= 100 ; k++){
         console.log(k)
         n ++ 
         if(n==3){
+            
             break
         }
 
         
     }
    
-    //console.log(k)  
+    console.log(k)  
 
 }
